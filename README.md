@@ -4,6 +4,9 @@
 
 This project demonstrates the practice of mapping components in a codebase focusing on React. It was created using CodeSandbox and is intended for educational or practice purposes.
 
+<img width="1918" height="900" alt="image" src="https://github.com/user-attachments/assets/a202040f-59eb-4a50-8d90-378e99b39e80" />
+
+
 ## Features
 
 - Component mapping techniques.
